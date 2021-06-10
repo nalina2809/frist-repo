@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(40, 40, 163);
+    font-family:sans-serif;
+    color: white;
+}
+h1{
+    color:white;
+    font-size: 50px;
+}
+button{
+    border: 2px solid black;
+    background-color: orangered;
+    color: white;
+}
+p{
+    color:white;
+    font-family:Arial;
+    font-weight:bold;
+    font-style:italic;
+}
+.amazing{
+    font-size: 30px;
+}
+
+.short{
+    font-size: 40px;
+}
